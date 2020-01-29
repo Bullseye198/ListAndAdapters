@@ -1,4 +1,5 @@
 //Written by Bullseye198
+
 package com.example.listadapter;
 
 import androidx.appcompat.app.AppCompatActivity;
