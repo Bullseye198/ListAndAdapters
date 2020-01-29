@@ -1,4 +1,5 @@
 //Written by Bullseye198
+//Created person objects and array lists
 
 package com.example.listadapter;
 
